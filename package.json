@@ -1,0 +1,14 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^16.0.7",
+    "getmac": "^5.20.0",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
